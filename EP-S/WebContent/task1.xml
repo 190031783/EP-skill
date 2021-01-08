@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="task1.xsl"?>
+<students_info>
+	<student>
+		<no>190031783</no>
+		<name>Harshitha</name>
+		<marks>92</marks>
+		<email>harshithayakkati@gmail.com</email>
+		<class>A</class>
+	</student>
+	<student>
+		<no>190031323</no>
+		<name>Sindhu</name>
+		<marks>95</marks>
+		<email>sindhu32@gmail.com</email>
+		<class>B</class>
+	</student>
+	<student>
+		<no>190031171</no>
+		<name>Veda</name>
+		<marks>90</marks>
+		<email>vedanarla@gmail.com</email>
+		<class>A</class>
+	</student>
+	<student>
+		<no>190031499</no>
+		<name>Jaha</name>
+		<marks>96</marks>
+		<email>jaha5@gmail.com</email>
+		<class>B</class>
+	</student>
+	<student>
+		<no>190031869</no>
+		<name>Anitha</name>
+		<marks>94</marks>
+		<email>konathamanitha@gmail.com</email>
+		<class>A</class>
+	</student>
+</students_info>
