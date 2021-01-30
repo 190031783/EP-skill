@@ -1,0 +1,29 @@
+package klu.Bean;
+
+public class SupermarketBean 
+{
+	private int itemid;
+	private String itemname;
+	private double itemcost;
+	public int getItemid() {
+		return itemid;
+	}
+	public String getItemname() {
+		return itemname;
+	}
+	public void setItemname(String itemname) {
+		this.itemname = itemname;
+	}
+	public double getItemcost() {
+		return itemcost;
+	}
+	public void setItemcost(double cost) {
+		this.itemcost = cost;
+	}
+	public void setItemid(int itemid) {
+		this.itemid = itemid;
+	}
+	
+	
+
+}
